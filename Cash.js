@@ -31,4 +31,4 @@ function findReturn(cash) {
     ten
   };
 }
-console.log(change(8));
+console.log(findReturn(8));
